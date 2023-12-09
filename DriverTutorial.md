@@ -11,4 +11,4 @@
 # 3. Check for Updates
 
 * After completing the previous steps, you should see something like this:
-  ![alt text](https://github.com/brxtz/UpdateNVIDIA-Drivers/tree/main/src/gfe.png)
+  ![alt text](https://github.com/brxtz/UpdateNVIDIA-Drivers/blob/main/src/gfe.png)
